@@ -26,6 +26,13 @@ group :development, :test do
   gem "dotenv-rails"
 end
 
+#For getting your app to precompile
+gem 'therubyracer'
+
+#For pushing your app up to heroku
+gem 'rails_12factor'
+
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
