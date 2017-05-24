@@ -8,7 +8,7 @@ gem 'devise', '~> 3.2'
 gem 'pg'
 gem 'rails', '4.2.5.2'
 gem 'unicorn'
-
+gem 'jquery-ui-rails', '~> 4.2.1'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -28,6 +28,8 @@ end
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
+
+gem 'therubyracer'
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
