@@ -8,9 +8,8 @@ test:
   adapter: postgresql
   database: prelaunchr_test
  
+
 production:
   adapter: postgresql
   database: prelauncr_production
-
-  
 
