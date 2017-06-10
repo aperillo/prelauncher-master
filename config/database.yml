@@ -12,5 +12,5 @@ test:
 production:
   adapter: postgresql
   database: prelauncr_production
-  host: localhost
+  host: ec2-23-21-220-167.compute-1.amazonaws.com
   port: 5432
