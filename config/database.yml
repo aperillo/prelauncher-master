@@ -1,0 +1,12 @@
+development:
+  adapter: postgresql
+  database: prelaunchr_development
+  
+ 
+
+test:
+  adapter: postgresql
+  database: prelaunchr_test
+ 
+  
+  
