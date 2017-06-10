@@ -12,4 +12,4 @@ test:
 production:
   adapter: postgresql
   database: prelauncr_production
-
+  host: localhost
