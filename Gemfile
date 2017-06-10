@@ -29,7 +29,10 @@ end
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
+#added this for heroku app creation
 gem 'therubyracer'
+gem 'rails_12factor'
+
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
