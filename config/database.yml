@@ -11,6 +11,8 @@ test:
 
 production:
   adapter: postgresql
-  database: prelauncr_production
+  database: d5aupfmt919q68
   host: ec2-23-21-220-167.compute-1.amazonaws.com
   port: 5432
+  user: ovjqfmxeyjjrbn
+  password: fbd8e8d350829d408546718c7f701bc09d0502b3df1f0faa6fd40ac6fc98885b
