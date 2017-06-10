@@ -58,6 +58,8 @@ Setup your local database:
 ```no-highlight
 bundle exec rake db:create
 bundle exec rake db:migrate
+## tutorial video recommends using the following
+bundle exec rake db:create db:schema:load db:seed
 ```
 
 Start local server and mail worker:

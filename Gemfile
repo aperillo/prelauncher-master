@@ -44,6 +44,7 @@ gem 'rails_12factor'
 # gem 'capistrano'
 
 group :production do
-  gem 'rails_12factor'
+  #commented rails_12factor out because it appears earlier
+  #gem 'rails_12factor'
   gem 'rails_serve_static_assets'
 end
